@@ -679,4 +679,10 @@ var profiles = [
     place : "Hyogo, Japan",
     github : "pittyi2nd"
   }
+  {
+    name : "Mike Wu",
+    place : "Houston, USA",
+    github : "blue98"
+  }
+  
 ];
